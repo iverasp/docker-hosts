@@ -1,1 +1,1 @@
-./stage/docker-host /srv/var/hosts
+./stage/docker-hosts /srv/var/hosts
